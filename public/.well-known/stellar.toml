@@ -1,0 +1,20 @@
+VERSION="0.1.1"
+
+ACCOUNTS=[
+"GCBJY774NJ4SDPFG5DZSYHT6PQI3XUP4KLBZBRJU55CO3OMVUY5WKM4L",
+"GCAU362GC5V63NXEECLHT3WKSFC7V6TP323EZE66HZ6MRAPQGZNKIZA7",
+]
+
+[DOCUMENTATION]
+ORG_NAME="Netlify-org"
+ORG_URL="https://netlify-org.netlify.app/"
+ORG_LOGO="https://netlify-org.netlify.app/netlify-logo.jpg"
+
+[[CURRENCIES]]
+code="Netlify"
+issuer="GCBJY774NJ4SDPFG5DZSYHT6PQI3XUP4KLBZBRJU55CO3OMVUY5WKM4L"
+display_decimals=7
+desc="Netlify is a blockchain-based DAO created to support freedom-centric digital and real-world projects."
+name="Netlify DAO"
+status="live"
+image="https://netlify-org.netlify.app/netlify-logo.jpg"
